@@ -1,18 +1,23 @@
-# 👋 Hi, I'm Arvind
+<h1 align="center">👋 Hi, I'm Arvind</h1>
 
-### Backend & Full-Stack Engineer · Java · Spring Boot · TypeScript · AI-Integrated Systems
+<h3 align="center">Backend & Full-Stack Engineer · Java · Spring Boot · TypeScript · AI-Integrated Systems</h3>
 
-[LinkedIn](https://linkedin.com/in/arvindramm) • [Email](mailto:arvindmahesh07@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/arvindramm">LinkedIn</a> •
+  <a href="mailto:arvindmahesh07@gmail.com">Email</a>
+</p>
 
-- 🎓 M.S. Software Engineering Systems, Northeastern University (GPA: 3.87/4.0)
+---
+
+- 🎓 M.S. Software Engineering Systems, **Northeastern University** (GPA: 3.87/4.0)
 - 🏗 Currently building a production volunteer management platform @ **Community Dreams Foundation** — React 18, TypeScript, Supabase, 99.9% uptime
 - 🤖 Built an AI e-learning platform using **OpenAI API (GPT-4o) + LangChain** that generates quizzes from video transcripts
-- ☁️ 3+ years shipping enterprise systems at **NTT DATA** — Spring Boot services that cut processing time by 70%
+- ☁️ 3+ years shipping enterprise backend systems at **NTT DATA** — Spring Boot services that cut processing time by 70%
 - 🇺🇸 US STEM OPT — available immediately
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack (at a glance)
 
 | Category | Tools |
 |---|---|
@@ -20,7 +25,7 @@
 | **Frontend** | React.js · Next.js · Tailwind CSS · AngularJS |
 | **Backend / APIs** | Spring Boot · Express.js · Django · Apache Kafka · REST · JPA/Hibernate |
 | **AI / LLM** | OpenAI API (GPT-4o) · LangChain · RAG · Prompt Engineering |
-| **Databases** | PostgreSQL · MongoDB · Redis · PlanetScale · Neo4j · SOQL |
+| **Databases** | PostgreSQL · MongoDB · Redis · PlanetScale · Neo4j |
 | **Cloud & DevOps** | AWS (EC2 · S3 · Lambda · SNS) · Azure · Docker · GitHub Actions · Jenkins · Packer |
 
 ---
@@ -29,15 +34,15 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| AI Learning Platform | Generates context-aware quizzes from YouTube video transcripts; Stripe subscriptions | Next.js · OpenAI API · LangChain · PlanetScale · Prisma |
-| Volunteer Management Platform | Full-stack platform serving 4+ user personas; 20+ serverless functions, JWT/RBAC, 99.9% uptime | React 18 · TypeScript · Supabase · PostgreSQL · GitHub Actions |
+| [AI Learning Platform](https://github.com/Arviii07/ai-learning-platform) | Generates context-aware quizzes from YouTube video transcripts; Stripe subscriptions | Next.js · OpenAI API (GPT-4o) · LangChain · PlanetScale · Prisma |
+| Volunteer Management Platform | Full-stack platform; 20+ serverless functions, JWT/RBAC, 99.9% uptime | React 18 · TypeScript · Supabase · PostgreSQL · GitHub Actions |
 | Cloud Connect App | Syncs files across Google Drive, OneDrive & Dropbox via OAuth 2.0 | Android · Java · Spring Boot · MongoDB |
 
 ---
 
 ## 🤝 Connect
 
-- 💼 LinkedIn: [arvindramm](https://linkedin.com/in/arvindramm)
+- 💼 LinkedIn: [linkedin.com/in/arvindramm](https://linkedin.com/in/arvindramm)
 - 📬 Email: arvindmahesh07@gmail.com
 
 ⭐️ *Always building — open to backend, platform, and AI-adjacent roles in the US and Canada.*
